@@ -1,0 +1,15 @@
+.DS_Store
+*.pdf
+*.docx
+*.doc
+*.txt
+*.zip
+*.sqlite
+*.db
+.env
+.env.*
+private/
+drafts/
+notes/
+originals/
+fulltext/
