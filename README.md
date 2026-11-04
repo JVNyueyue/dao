@@ -14,9 +14,9 @@
 - [文献池维护规范](references/knowledge-base-format.md)：记录格式与核验状态。
 - [文章拆解分流规范](references/article-analysis-routing.md)：案例中心与理论建构文章的阅读路径。
 - [范文学习规范](references/exemplar-writing.md)：语言、结构、整体认识与理论对话的分层分析。
+- [写作资源库](references/writing-library/README.md)：词汇、句式、专有名词、段落组织四个分库的入口和收录规则。
 - [逐句出处记录](references/sentence-provenance.md)：需要严格句式溯源时的对照格式。
 - [学术史梳理框架](references/library/ACADEMIC-HISTORY.md)：通用阅读视角，具体学术史关系须回原著核验。
-- [基本学术史脉络](references/library/ACADEMIC-HISTORY.md)：不附个人文献记录的通用研究取向导航。
 
 ## 隐私与来源
 
