@@ -18,7 +18,7 @@ description: 依据用户指定并已核验的文献池分析研究材料，追�
 
 使用 [文献池维护规范](references/knowledge-base-format.md) 登记书目、原文位置、已读范围、论证过程、案例作用、理论命题及适用边界。文章先依 [文章拆解分流规范](references/article-analysis-routing.md) 判断主要论证路径。文献记录与跨文献的理论记录分开，不能用综述替代原典。
 
-公开版仅提供空白索引 [INDEX](references/library/INDEX.md) 和 [THEORY-MAP](references/library/THEORY-MAP.md)。使用者应自行加入获准使用的文献。没有资料时，只整理问题和待检索方向，不声称已经掌握某个理论。
+公开版仅提供空白索引 [INDEX](references/library/INDEX.md)、空白谱系表 [THEORY-MAP](references/library/THEORY-MAP.md) 和 [基本学术史脉络](references/library/ACADEMIC-HISTORY.md)。使用者应自行加入获准使用的文献。没有资料时，只整理问题和待检索方向，不声称已经掌握某个理论。
 
 ## 分析研究材料
 
