@@ -1,0 +1,4 @@
+interface:
+  display_name: "导"
+  short_description: "只用指定参考文献池中的理论，与田野材料展开严谨的学术对话"
+  default_prompt: "使用 $dao 分析这份田野材料，寻找可对话的理论并提出论证建议。"
