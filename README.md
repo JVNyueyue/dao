@@ -15,6 +15,7 @@
 - [文章拆解分流规范](references/article-analysis-routing.md)：案例中心与理论建构文章的阅读路径。
 - [范文学习规范](references/exemplar-writing.md)：语言、结构、整体认识与理论对话的分层分析。
 - [逐句出处记录](references/sentence-provenance.md)：需要严格句式溯源时的对照格式。
+- [基本学术史脉络](references/library/ACADEMIC-HISTORY.md)：不附个人文献记录的通用研究取向导航。
 
 ## 隐私与来源
 
